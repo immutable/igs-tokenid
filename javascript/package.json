@@ -1,0 +1,14 @@
+{
+  "name": "tokenid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tokenid.js",
+  "scripts": {
+    "start": "node tokenid.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "uuidv7": "^0.6.3"
+  }
+}
